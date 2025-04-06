@@ -12,7 +12,7 @@ class IT Analyst:
     def __init__(self):
         self.name = "Igor Ramalho"
         self.role = "IT Analyst"
-        self.language_spoken = ["pt-BR", "en_US"]
+        self.language_spoken = ["pt-BR"]
 
     def say_hi(self):
         print("Thanks for stopping by.")
